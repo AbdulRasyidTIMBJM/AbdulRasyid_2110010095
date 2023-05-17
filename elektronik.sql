@@ -98,7 +98,7 @@ CREATE TABLE `tbl_login` (
 --
 
 INSERT INTO `tbl_login` (`username`, `password`, `jenis_kelamin`, `email`, `no_telp`, `agama`, `alamat`) VALUES
-('rima', 'regiani', 'Perempuan', 'regianirima@gmail.com', 12345, 'Islam', 'banjarwangi');
+('rasyid', 'rasyid', 'laki-laki', 'abdulrasyid240103@gmail.com', 12345, 'Islam', 'banjarmasin');
 
 -- --------------------------------------------------------
 
